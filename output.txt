@@ -1,0 +1,5 @@
+Script started on Fri 11 Aug 2017 08:53:08 PM EDT
+xwang345@matrix:~/OOP244SDD/Milestone6_1> f[[Kexit
+exit
+
+Script done on Fri 11 Aug 2017 08:53:16 PM EDT
